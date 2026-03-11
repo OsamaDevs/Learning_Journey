@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "osama1",
+            "request": "launch",
+            "mainClass": "osama1",
+            "projectName": "Front again_fce9f5ea"
+        },
+        {
+            "type": "java",
+            "name": "editedMatrix",
+            "request": "launch",
+            "mainClass": "editedMatrix",
+            "projectName": "Front again_fce9f5ea"
+        },
+        {
+            "type": "java",
+            "name": "matrix3",
+            "request": "launch",
+            "mainClass": "matrix3",
+            "projectName": "Front again_fce9f5ea"
+        },
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        }
+    ],
+    "version": "2.0.0"
+}
